@@ -1,11 +1,11 @@
-# This application delievrs the analysis of Stocks
+# This application delivers the analysis of Stocks
 
-# Data:
+# Data
 1. Details of each company
 2. Metadata of each company
-Both are in csv
+Both are in CSV
 
-# Tools  Used:
+# Tools  Used
 1. Python
 2. PySpark
 
@@ -13,3 +13,6 @@ Both are in csv
 1. Start date
 2. End date
 3. Sector
+
+# Reuired packages
+PySpark (pip install pyspark)
